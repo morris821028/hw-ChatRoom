@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Jan 06 22:27:59 CST 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\ShiangYun\\CNworkspace\\GameTest\\GameTest_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Nov 16 15:19:25 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=D\:\\ShiangYun\\CNworkspace\\SocketServer\\SocketServer_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Server.MServer
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
