@@ -8,14 +8,14 @@
 介面設計
 =====
 
-![img](demo2.1.png)
+![img](/demo/demo2.1.png)
 上圖2.1為 client 端登入時的操作介面
 
 使用者需要設定 Host IP Address 和 Host Port Number 進行連線，如果使用者提供的 Name 重複則會無法連線。而左下角提供密語選擇操作的選單，右上角提供遊戲連線的請求觸發，中間 block 提供 HTML 格式的處理視窗，但不提供使用者直接對其插入 HTML 語法，只能透過提供的轉換按鈕來發送 HTML 相關的訊息。
     
 遊戲觸發時，會跳轉至分頁 Game 部分等待另一名使用者連入遊戲，連線成功並且在 5 秒後遊戲自動開始。密語觸發時，可以更進一步地在專屬頁面一對一溝通，但此時不提供 HTML 語法操作。
 
-![img](demo2.2.png)
+![img](/demo/demo2.2.png)
 上圖2.2為 client 端登入時的操作介面
 
 server 管理者需鍵入開啟連線的 port number，來讓使用者連入操作，並且啟動開啟 server OFF 鍵撥開。管理者可以自主發出廣播訊息，以及觀察所有使用者互相傳遞的資訊。
@@ -62,9 +62,9 @@ Client 溝通訊息上
 可以參考 http://www.cnblogs.com/lanxuezaipiao/p/3291641.html
 下載 Fat jar 
 
-![img](demo3.1.png)
-![img](demo3.2.png)
-![img](demo3.3.png)
+![img](/demo/demo3.1.png)
+![img](/demo/demo3.2.png)
+![img](/demo/demo3.3.png)
 
 由於聊天室有本地上傳功能，此功能只限定在於 Server 有開啟 80 port，若有需要 Demo 用途，請使用有 apache 的主機進行 Server.jar 的開啟。
 
@@ -73,24 +73,24 @@ Server 端程式不會檢驗任何上傳的檔案，而上傳檔案也不會經�
 
 操作運行
 =====
-![img](demo5.1.jpg)
-![img](demo5.2.jpg)
-![img](demo5.3.jpg)
-![img](demo5.4.jpg)
-![img](demo5.5.jpg)
-![img](demo5.6.jpg)
-![img](demo5.7.jpg)
-![img](demo5.8.jpg)
-![img](demo5.9.jpg)
-![img](demo5.10.png)
-![img](demo5.11.png)
-![img](demo5.12.png)
-![img](demo5.13.png)
-![img](demo5.14.png)
-![img](demo5.15.png)
-![img](demo5.16.png)
-![img](demo5.17.png)
-![img](demo5.18.png)
+![img](/demo/demo5.1.jpg)
+![img](/demo/demo5.2.jpg)
+![img](/demo/demo5.3.jpg)
+![img](/demo/demo5.4.jpg)
+![img](/demo/demo5.5.jpg)
+![img](/demo/demo5.6.jpg)
+![img](/demo/demo5.7.jpg)
+![img](/demo/demo5.8.jpg)
+![img](/demo/demo5.9.jpg)
+![img](/demo/demo5.10.png)
+![img](/demo/demo5.11.png)
+![img](/demo/demo5.12.png)
+![img](/demo/demo5.13.png)
+![img](/demo/demo5.14.png)
+![img](/demo/demo5.15.png)
+![img](/demo/demo5.16.png)
+![img](/demo/demo5.17.png)
+![img](/demo/demo5.18.png)
 
 聯絡
 =====
